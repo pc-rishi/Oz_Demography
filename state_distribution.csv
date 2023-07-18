@@ -1,0 +1,137 @@
+﻿Merchant Category Code,Origin State,Pct,Percentage
+Bars/Taverns/Lounges/Discos,Australian Capital Territory,0.02060,2.06
+Bars/Taverns/Lounges/Discos,New South Wales,0.18380,18.38
+Bars/Taverns/Lounges/Discos,Northern Territory,0.03980,3.98
+Bars/Taverns/Lounges/Discos,Queensland,0.12680,12.68
+Bars/Taverns/Lounges/Discos,South Australia,0.30190,30.19
+Bars/Taverns/Lounges/Discos,Tasmania,0.01570,1.57
+Bars/Taverns/Lounges/Discos,Victoria,0.24800,24.8
+Bars/Taverns/Lounges/Discos,Western Australia,0.06330,6.33
+Department Stores,Australian Capital Territory,0.01870,1.87
+Department Stores,New South Wales,0.13810,13.81
+Department Stores,Northern Territory,0.06330,6.33
+Department Stores,Queensland,0.09340,9.34
+Department Stores,South Australia,0.46750,46.75
+Department Stores,Tasmania,0.01520,1.52
+Department Stores,Victoria,0.16230,16.23
+Department Stores,Western Australia,0.04160,4.16
+Discount Stores,Australian Capital Territory,0.01050,1.05
+Discount Stores,New South Wales,0.09660,9.66
+Discount Stores,Northern Territory,0.03710,3.71
+Discount Stores,Queensland,0.07450,7.45
+Discount Stores,South Australia,0.62940,62.94
+Discount Stores,Tasmania,0.00940,0.94
+Discount Stores,Victoria,0.11000,11
+Discount Stores,Western Australia,0.03250,3.25
+Fast Food Restaurants,Australian Capital Territory,0.01850,1.85
+Fast Food Restaurants,New South Wales,0.15120,15.12
+Fast Food Restaurants,Northern Territory,0.03930,3.93
+Fast Food Restaurants,Queensland,0.10650,10.65
+Fast Food Restaurants,South Australia,0.39160,39.16
+Fast Food Restaurants,Tasmania,0.01460,1.46
+Fast Food Restaurants,Victoria,0.22900,22.9
+Fast Food Restaurants,Western Australia,0.04920,4.92
+Furniture/Equip Stores,Australian Capital Territory,0.01390,1.39
+Furniture/Equip Stores,New South Wales,0.10680,10.68
+Furniture/Equip Stores,Northern Territory,0.04920,4.92
+Furniture/Equip Stores,Queensland,0.07670,7.67
+Furniture/Equip Stores,South Australia,0.59530,59.53
+Furniture/Equip Stores,Tasmania,0.01140,1.14
+Furniture/Equip Stores,Victoria,0.11670,11.67
+Furniture/Equip Stores,Western Australia,0.03000,3
+Grocery Stores/Supermarkets,Australian Capital Territory,0.01450,1.45
+Grocery Stores/Supermarkets,New South Wales,0.12150,12.15
+Grocery Stores/Supermarkets,Northern Territory,0.03690,3.69
+Grocery Stores/Supermarkets,Queensland,0.20790,20.79
+Grocery Stores/Supermarkets,South Australia,0.35190,35.19
+Grocery Stores/Supermarkets,Tasmania,0.01280,1.28
+Grocery Stores/Supermarkets,Victoria,0.21270,21.27
+Grocery Stores/Supermarkets,Western Australia,0.04190,4.19
+Hardware Stores,Australian Capital Territory,0.00850,0.85
+Hardware Stores,New South Wales,0.08840,8.84
+Hardware Stores,Northern Territory,0.03330,3.33
+Hardware Stores,Queensland,0.06340,6.34
+Hardware Stores,South Australia,0.67760,67.76
+Hardware Stores,Tasmania,0.00820,0.82
+Hardware Stores,Victoria,0.08590,8.59
+Hardware Stores,Western Australia,0.03490,3.49
+Home Supply Warehouse Stores,Australian Capital Territory,0.01070,1.07
+Home Supply Warehouse Stores,New South Wales,0.10080,10.08
+Home Supply Warehouse Stores,Northern Territory,0.03630,3.63
+Home Supply Warehouse Stores,Queensland,0.07370,7.37
+Home Supply Warehouse Stores,South Australia,0.63450,63.45
+Home Supply Warehouse Stores,Tasmania,0.00880,0.88
+Home Supply Warehouse Stores,Victoria,0.10080,10.08
+Home Supply Warehouse Stores,Western Australia,0.03450,3.45
+Lodging,Australian Capital Territory,0.02080,2.08
+Lodging,New South Wales,0.21710,21.71
+Lodging,Northern Territory,0.03370,3.37
+Lodging,Queensland,0.14360,14.36
+Lodging,South Australia,0.20840,20.84
+Lodging,Tasmania,0.01800,1.8
+Lodging,Victoria,0.28670,28.67
+Lodging,Western Australia,0.07180,7.18
+Mens/Womens Clothing Stores,Australian Capital Territory,0.01600,1.6
+Mens/Womens Clothing Stores,New South Wales,0.14820,14.82
+Mens/Womens Clothing Stores,Northern Territory,0.05640,5.64
+Mens/Womens Clothing Stores,Queensland,0.08860,8.86
+Mens/Womens Clothing Stores,South Australia,0.43060,43.06
+Mens/Womens Clothing Stores,Tasmania,0.01780,1.78
+Mens/Womens Clothing Stores,Victoria,0.20120,20.12
+Mens/Womens Clothing Stores,Western Australia,0.04110,4.11
+Misc Food Stores - Default,Australian Capital Territory,0.02540,2.54
+Misc Food Stores - Default,New South Wales,0.18450,18.45
+Misc Food Stores - Default,Northern Territory,0.03930,3.93
+Misc Food Stores - Default,Queensland,0.16690,16.69
+Misc Food Stores - Default,South Australia,0.29080,29.08
+Misc Food Stores - Default,Tasmania,0.01450,1.45
+Misc Food Stores - Default,Victoria,0.20790,20.79
+Misc Food Stores - Default,Western Australia,0.07060,7.06
+Pkg Stores/Beer/Wine/Liquor,Australian Capital Territory,0.01720,1.72
+Pkg Stores/Beer/Wine/Liquor,New South Wales,0.21700,21.7
+Pkg Stores/Beer/Wine/Liquor,Northern Territory,0.03090,3.09
+Pkg Stores/Beer/Wine/Liquor,Queensland,0.15400,15.4
+Pkg Stores/Beer/Wine/Liquor,South Australia,0.26430,26.43
+Pkg Stores/Beer/Wine/Liquor,Tasmania,0.01230,1.23
+Pkg Stores/Beer/Wine/Liquor,Victoria,0.25250,25.25
+Pkg Stores/Beer/Wine/Liquor,Western Australia,0.05190,5.19
+Restaurants,Australian Capital Territory,0.02420,2.42
+Restaurants,New South Wales,0.20640,20.64
+Restaurants,Northern Territory,0.03740,3.74
+Restaurants,Queensland,0.12870,12.87
+Restaurants,South Australia,0.24870,24.87
+Restaurants,Tasmania,0.01610,1.61
+Restaurants,Victoria,0.28080,28.08
+Restaurants,Western Australia,0.05770,5.77
+Service Stations,Australian Capital Territory,0.05590,5.59
+Service Stations,New South Wales,0.13330,13.33
+Service Stations,Northern Territory,0.03150,3.15
+Service Stations,Queensland,0.09280,9.28
+Service Stations,South Australia,0.41600,41.6
+Service Stations,Tasmania,0.01120,1.12
+Service Stations,Victoria,0.17230,17.23
+Service Stations,Western Australia,0.08690,8.69
+Sporting Goods Stores,Australian Capital Territory,0.01130,1.13
+Sporting Goods Stores,New South Wales,0.10750,10.75
+Sporting Goods Stores,Northern Territory,0.04880,4.88
+Sporting Goods Stores,Queensland,0.08000,8
+Sporting Goods Stores,South Australia,0.56120,56.12
+Sporting Goods Stores,Tasmania,0.01310,1.31
+Sporting Goods Stores,Victoria,0.13400,13.4
+Sporting Goods Stores,Western Australia,0.04400,4.4
+Trailer Parks/Campgrounds,Australian Capital Territory,0.01220,1.22
+Trailer Parks/Campgrounds,New South Wales,0.18210,18.21
+Trailer Parks/Campgrounds,Northern Territory,0.02600,2.6
+Trailer Parks/Campgrounds,Queensland,0.14010,14.01
+Trailer Parks/Campgrounds,South Australia,0.25880,25.88
+Trailer Parks/Campgrounds,Tasmania,0.01950,1.95
+Trailer Parks/Campgrounds,Victoria,0.26220,26.22
+Trailer Parks/Campgrounds,Western Australia,0.09910,9.91
+Total Spend,Australian Capital Territory,0.02000,2
+Total Spend,New South Wales,0.15480,15.48
+Total Spend,Northern Territory,0.03990,3.99
+Total Spend,Queensland,0.12700,12.7
+Total Spend,South Australia,0.38410,38.41
+Total Spend,Tasmania,0.01360,1.36
+Total Spend,Victoria,0.20510,20.51
+Total Spend,Western Australia,0.05540,5.54
