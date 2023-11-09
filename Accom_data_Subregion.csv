@@ -1,0 +1,155 @@
+﻿Sub Region,MY,ADR,LOS,Occupancy
+Aldinga,Jan-23,272.6,5.8,76
+Aldinga,Feb-23,227.7,3.9,58
+Aldinga,Mar-23,229.2,3.6,60
+Aldinga,Apr-23,257.2,4.9,68
+Aldinga,May-23,240.7,4.6,47
+Aldinga,Jun-23,234.7,3.8,44
+Aldinga,Jul-23,235.2,4.7,46
+Aldinga,Aug-23,234.5,3.9,41
+Aldinga,Sep-23,257.8,4.4,43
+Aldinga,Oct-23,267.9,4.3,52
+Aldinga,Nov-23,252.9,4.2,44
+Christies Beach,Jan-23,199.4,35.1,80
+Christies Beach,Feb-23,166.9,20.4,72
+Christies Beach,Mar-23,170.7,8.4,76
+Christies Beach,Apr-23,178.4,4.2,72
+Christies Beach,May-23,150.8,4.9,48
+Christies Beach,Jun-23,153.8,15.6,62
+Christies Beach,Jul-23,149.1,22.2,59
+Christies Beach,Aug-23,153.1,5.4,60
+Christies Beach,Sep-23,159,8.8,69
+Christies Beach,Oct-23,159.6,7.6,71
+Christies Beach,Nov-23,159.3,5.9,55
+Clarendon,Jan-23,167.4,6.5,57
+Clarendon,Feb-23,171.3,2.2,40
+Clarendon,Mar-23,175,3.6,53
+Clarendon,Apr-23,182.1,3.7,52
+Clarendon,May-23,165.8,2.8,40
+Clarendon,Jun-23,164.8,8.4,26
+Clarendon,Jul-23,149.1,6.2,47
+Clarendon,Aug-23,150.2,2.5,55
+Clarendon,Sep-23,170.4,2.6,35
+Clarendon,Oct-23,173.3,2.4,27
+Clarendon,Nov-23,168.6,2.5,12
+McLaren Vale/Flat,Jan-23,263.7,2.9,71
+McLaren Vale/Flat,Feb-23,256.3,2.1,54
+McLaren Vale/Flat,Mar-23,265.5,2,58
+McLaren Vale/Flat,Apr-23,266.9,2.2,65
+McLaren Vale/Flat,May-23,253.7,2.2,48
+McLaren Vale/Flat,Jun-23,247,2.4,53
+McLaren Vale/Flat,Jul-23,255.1,2.5,54
+McLaren Vale/Flat,Aug-23,262.6,2.2,43
+McLaren Vale/Flat,Sep-23,257.2,2.5,54
+McLaren Vale/Flat,Oct-23,269.2,2.1,51
+McLaren Vale/Flat,Nov-23,263.4,2.7,46
+Port Noarlunga,Jan-23,177.3,7.3,67
+Port Noarlunga,Feb-23,170,6.9,57
+Port Noarlunga,Mar-23,199.9,4.5,65
+Port Noarlunga,Apr-23,210.8,4.6,66
+Port Noarlunga,May-23,186.4,3.3,44
+Port Noarlunga,Jun-23,182,5,43
+Port Noarlunga,Jul-23,159.7,3,48
+Port Noarlunga,Aug-23,170.8,3.5,29
+Port Noarlunga,Sep-23,188.6,4.6,59
+Port Noarlunga,Oct-23,180.7,4.6,49
+Port Noarlunga,Nov-23,256.3,8.4,20
+Rest of Knox,Jan-23,105.8,11.1,94
+Rest of Knox,Feb-23,90.4,4.9,86
+Rest of Knox,Mar-23,102.9,6.1,90
+Rest of Knox,Apr-23,115.3,4.2,83
+Rest of Knox,May-23,103.4,4.4,54
+Rest of Knox,Jun-23,98.7,4.4,43
+Rest of Knox,Jul-23,111.9,7.4,50
+Rest of Knox,Aug-23,103.3,3,57
+Rest of Knox,Sep-23,127.5,7.4,70
+Rest of Knox,Oct-23,120.9,5.4,66
+Rest of Knox,Nov-23,93.2,1.5,44
+Rest of Mid Coast,Jan-23,321.8,8,81
+Rest of Mid Coast,Feb-23,210.2,3,54
+Rest of Mid Coast,Mar-23,233.9,3.4,52
+Rest of Mid Coast,Apr-23,298,4,57
+Rest of Mid Coast,May-23,207.1,5,13
+Rest of Mid Coast,Jun-23,254.9,3,13
+Rest of Mid Coast,Jul-23,181.3,5.5,20
+Rest of Mid Coast,Aug-23,141.1,2.6,30
+Rest of Mid Coast,Sep-23,225.5,7.9,56
+Rest of Mid Coast,Oct-23,220.9,11.2,73
+Rest of Mid Coast,Nov-23,195.3,17,84
+Rest of Pimpala,Jan-23,111.7,42.1,67
+Rest of Pimpala,Feb-23,117.1,8.5,62
+Rest of Pimpala,Mar-23,116.2,11.5,66
+Rest of Pimpala,Apr-23,152.3,6.6,61
+Rest of Pimpala,May-23,150.3,13,62
+Rest of Pimpala,Jun-23,118.5,20.3,60
+Rest of Pimpala,Jul-23,107.2,12.2,58
+Rest of Pimpala,Aug-23,144.9,13.5,45
+Rest of Pimpala,Sep-23,177,6.2,50
+Rest of Pimpala,Oct-23,177.1,11.1,48
+Rest of Pimpala,Nov-23,197.4,3,45
+Rest of South Coast,Jan-23,267.1,5.8,73
+Rest of South Coast,Feb-23,242.1,3.8,52
+Rest of South Coast,Mar-23,254.6,3.5,55
+Rest of South Coast,Apr-23,263.8,3.3,58
+Rest of South Coast,May-23,227.2,5.4,33
+Rest of South Coast,Jun-23,239.3,4.6,41
+Rest of South Coast,Jul-23,241.7,4.9,41
+Rest of South Coast,Aug-23,244.1,3.8,40
+Rest of South Coast,Sep-23,251.7,4.9,48
+Rest of South Coast,Oct-23,263,3.8,50
+Rest of South Coast,Nov-23,256.3,6.2,44
+Rest of Southern Vales,Jan-23,160.4,26.4,49
+Rest of Southern Vales,Feb-23,136.7,6.8,43
+Rest of Southern Vales,Mar-23,157.4,16.1,40
+Rest of Southern Vales,Apr-23,158.4,36.5,52
+Rest of Southern Vales,May-23,147.3,3.3,51
+Rest of Southern Vales,Jun-23,144,3.2,52
+Rest of Southern Vales,Jul-23,145.3,31,54
+Rest of Southern Vales,Aug-23,159.9,8,57
+Rest of Southern Vales,Sep-23,159.9,2.6,58
+Rest of Southern Vales,Oct-23,149.6,5.7,52
+Rest of Southern Vales,Nov-23,156.7,7.8,53
+Rest of Thalassa,Jan-23,175.3,9.8,54
+Rest of Thalassa,Feb-23,179.6,17.8,38
+Rest of Thalassa,Mar-23,197.6,3.5,59
+Rest of Thalassa,Apr-23,197.8,4.2,59
+Rest of Thalassa,May-23,190.7,3.3,52
+Rest of Thalassa,Jun-23,189.5,5.2,42
+Rest of Thalassa,Jul-23,198,12.1,52
+Rest of Thalassa,Aug-23,193.3,5.5,55
+Rest of Thalassa,Sep-23,199.3,5.4,46
+Rest of Thalassa,Oct-23,193.6,4.5,45
+Rest of Thalassa,Nov-23,189.5,7.2,34
+Reynella,Jan-23,151.6,13,55
+Reynella,Feb-23,128.4,3.9,36
+Reynella,Mar-23,164.7,6.8,41
+Reynella,Apr-23,166.1,5.4,44
+Reynella,May-23,158.5,10.7,37
+Reynella,Jun-23,150.8,2.8,38
+Reynella,Jul-23,152.8,14.4,47
+Reynella,Aug-23,181.1,10.2,37
+Reynella,Sep-23,201.1,3.7,25
+Reynella,Oct-23,200.6,5.1,19
+Reynella,Nov-23,207.6,5,27
+Willunga,Jan-23,276.3,3.2,71
+Willunga,Feb-23,266.2,3.2,50
+Willunga,Mar-23,266.9,2.7,60
+Willunga,Apr-23,281.6,2.6,63
+Willunga,May-23,255,3.3,55
+Willunga,Jun-23,252.7,4,59
+Willunga,Jul-23,268.7,3.2,55
+Willunga,Aug-23,278.7,2.9,46
+Willunga,Sep-23,281,2.7,57
+Willunga,Oct-23,272.1,2.7,61
+Willunga,Nov-23,242.2,3.8,36
+Total,Jan-23,206.6,13.9,66
+Total,Feb-23,189.3,7.5,51
+Total,Mar-23,203.8,5.7,58
+Total,Apr-23,213.9,7.6,61
+Total,May-23,194.6,4.8,47
+Total,Jun-23,191.8,6.2,48
+Total,Jul-23,191.2,10.8,51
+Total,Aug-23,199.5,5.1,46
+Total,Sep-23,210.7,4.5,51
+Total,Oct-23,211.6,4.6,50
+Total,Nov-23,212,5.5,41
