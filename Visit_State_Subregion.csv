@@ -1,0 +1,113 @@
+﻿Cel State,Sub Region,Visit_Percent,Pct
+TAS,Rest of Mid Coast,0.00130,0.13
+ACT,Rest of Mid Coast,0.00140,0.14
+WA,Rest of Mid Coast,0.00600,0.6
+NT,Rest of Mid Coast,0.00910,0.91
+QLD,Rest of Mid Coast,0.01770,1.77
+VIC,Rest of Mid Coast,0.02900,2.9
+NSW,Rest of Mid Coast,0.03310,3.31
+SA,Rest of Mid Coast,0.90240,90.24
+TAS,Reynella,0.00120,0.12
+ACT,Reynella,0.00140,0.14
+WA,Reynella,0.00590,0.59
+NT,Reynella,0.00860,0.86
+QLD,Reynella,0.01690,1.69
+VIC,Reynella,0.02750,2.75
+NSW,Reynella,0.03080,3.08
+SA,Reynella,0.90770,90.77
+TAS,Rest of Knox,0.00150,0.15
+ACT,Rest of Knox,0.00130,0.13
+WA,Rest of Knox,0.00630,0.63
+NT,Rest of Knox,0.00980,0.98
+QLD,Rest of Knox,0.01790,1.79
+VIC,Rest of Knox,0.02920,2.92
+NSW,Rest of Knox,0.03490,3.49
+SA,Rest of Knox,0.89900,89.9
+TAS,Rest of Southern Vales,0.00140,0.14
+ACT,Rest of Southern Vales,0.00130,0.13
+WA,Rest of Southern Vales,0.00630,0.63
+NT,Rest of Southern Vales,0.00950,0.95
+QLD,Rest of Southern Vales,0.01880,1.88
+VIC,Rest of Southern Vales,0.02860,2.86
+NSW,Rest of Southern Vales,0.03360,3.36
+SA,Rest of Southern Vales,0.90070,90.07
+TAS,Rest of Pimpala,0.00160,0.16
+ACT,Rest of Pimpala,0.00140,0.14
+WA,Rest of Pimpala,0.00670,0.67
+NT,Rest of Pimpala,0.00900,0.9
+QLD,Rest of Pimpala,0.01660,1.66
+VIC,Rest of Pimpala,0.02850,2.85
+NSW,Rest of Pimpala,0.03160,3.16
+SA,Rest of Pimpala,0.90470,90.47
+TAS,Rest of Thalassa,0.00150,0.15
+ACT,Rest of Thalassa,0.00160,0.16
+WA,Rest of Thalassa,0.00720,0.72
+NT,Rest of Thalassa,0.00890,0.89
+QLD,Rest of Thalassa,0.01710,1.71
+VIC,Rest of Thalassa,0.03090,3.09
+NSW,Rest of Thalassa,0.03250,3.25
+SA,Rest of Thalassa,0.90020,90.02
+TAS,McLaren Vale/Flat,0.00120,0.12
+ACT,McLaren Vale/Flat,0.00170,0.17
+WA,McLaren Vale/Flat,0.00590,0.59
+NT,McLaren Vale/Flat,0.00840,0.84
+QLD,McLaren Vale/Flat,0.01890,1.89
+VIC,McLaren Vale/Flat,0.02740,2.74
+NSW,McLaren Vale/Flat,0.03180,3.18
+SA,McLaren Vale/Flat,0.90470,90.47
+TAS,Rest of South Coast,0.00140,0.14
+ACT,Rest of South Coast,0.00140,0.14
+WA,Rest of South Coast,0.00670,0.67
+NT,Rest of South Coast,0.01080,1.08
+QLD,Rest of South Coast,0.01970,1.97
+VIC,Rest of South Coast,0.03230,3.23
+NSW,Rest of South Coast,0.03730,3.73
+SA,Rest of South Coast,0.89040,89.04
+TAS,Aldinga,0.00150,0.15
+ACT,Aldinga,0.00170,0.17
+WA,Aldinga,0.00520,0.52
+NT,Aldinga,0.00920,0.92
+QLD,Aldinga,0.01870,1.87
+VIC,Aldinga,0.03080,3.08
+NSW,Aldinga,0.03430,3.43
+SA,Aldinga,0.89860,89.86
+TAS,Willunga,0.00110,0.11
+ACT,Willunga,0.00150,0.15
+WA,Willunga,0.00550,0.55
+NT,Willunga,0.00740,0.74
+QLD,Willunga,0.01790,1.79
+VIC,Willunga,0.02400,2.4
+NSW,Willunga,0.02900,2.9
+SA,Willunga,0.91360,91.36
+TAS,Christies Beach,0.00070,0.07
+ACT,Christies Beach,0.00120,0.12
+WA,Christies Beach,0.00560,0.56
+NT,Christies Beach,0.00890,0.89
+QLD,Christies Beach,0.01750,1.75
+VIC,Christies Beach,0.02680,2.68
+NSW,Christies Beach,0.03180,3.18
+SA,Christies Beach,0.90760,90.76
+TAS,Port Noarlunga,0.00100,0.1
+ACT,Port Noarlunga,0.00120,0.12
+WA,Port Noarlunga,0.00620,0.62
+NT,Port Noarlunga,0.00930,0.93
+QLD,Port Noarlunga,0.01890,1.89
+VIC,Port Noarlunga,0.03050,3.05
+NSW,Port Noarlunga,0.03610,3.61
+SA,Port Noarlunga,0.89680,89.68
+TAS,Clarendon,0.00120,0.12
+ACT,Clarendon,0.00140,0.14
+WA,Clarendon,0.00610,0.61
+NT,Clarendon,0.00520,0.52
+QLD,Clarendon,0.01600,1.6
+VIC,Clarendon,0.02130,2.13
+NSW,Clarendon,0.02740,2.74
+SA,Clarendon,0.92140,92.14
+TAS,Total,0.00160,0.16
+ACT,Total,0.00170,0.17
+WA,Total,0.00740,0.74
+NT,Total,0.01110,1.11
+QLD,Total,0.02010,2.01
+VIC,Total,0.03540,3.54
+NSW,Total,0.03990,3.99
+SA,Total,0.88280,88.28
