@@ -1,0 +1,353 @@
+Month of Month of Booking Date,Park_Tourism_Region,Year of Month of Booking Date,Visitors,month_year
+December,All,2022,93054,Dec-22
+November,All,2022,111035,Nov-22
+October,All,2022,124876,Oct-22
+September,All,2022,147845,Sep-22
+August,All,2022,149858,Aug-22
+July,All,2022,127975,Jul-22
+June,All,2022,114471,Jun-22
+May,All,2022,82749,May-22
+April,All,2022,113032,Apr-22
+December,All,2023,60918,Dec-23
+November,All,2023,82576,Nov-23
+October,All,2023,107250,Oct-23
+September,All,2023,126364,Sep-23
+August,All,2023,146478,Aug-23
+July,All,2023,122336,Jul-23
+June,All,2023,117658,Jun-23
+May,All,2023,98937,May-23
+April,All,2023,109244,Apr-23
+March,All,2023,120517,Mar-23
+February,All,2023,96981,Feb-23
+January,All,2023,119195,Jan-23
+March,All,2024,37574,Mar-24
+February,All,2024,49712,Feb-24
+January,All,2024,57883,Jan-24
+April,Whitsundays,2022,1068,Apr-22
+April,Tropical North Queensland,2022,15658,Apr-22
+April,Townsville,2022,2060,Apr-22
+April,Sunshine Coast,2022,28850,Apr-22
+April,Outback,2022,2124,Apr-22
+April,Mackay,2022,2777,Apr-22
+April,"Launceston, Tamar and the North",2022,2192,Apr-22
+April,Gold Coast,2022,1276,Apr-22
+April,Fraser Coast,2022,32259,Apr-22
+April,Darling Downs,2022,6510,Apr-22
+April,Central Queensland,2022,9874,Apr-22
+April,Bundaberg,2022,549,Apr-22
+April,Brisbane,2022,7835,Apr-22
+May,Whitsundays,2022,1150,May-22
+May,Tropical North Queensland,2022,15853,May-22
+May,Townsville,2022,1882,May-22
+May,Sunshine Coast,2022,15922,May-22
+May,Outback,2022,1858,May-22
+May,Mackay,2022,2082,May-22
+May,"Launceston, Tamar and the North",2022,1081,May-22
+May,Gold Coast,2022,1163,May-22
+May,Fraser Coast,2022,25571,May-22
+May,Darling Downs,2022,2656,May-22
+May,Central Queensland,2022,9371,May-22
+May,Bundaberg,2022,142,May-22
+May,Brisbane,2022,4018,May-22
+June,Whitsundays,2022,1322,Jun-22
+June,Tropical North Queensland,2022,18259,Jun-22
+June,Townsville,2022,2996,Jun-22
+June,Sunshine Coast,2022,27628,Jun-22
+June,Outback,2022,3002,Jun-22
+June,Mackay,2022,2763,Jun-22
+June,"Launceston, Tamar and the North",2022,2472,Jun-22
+June,Gold Coast,2022,1262,Jun-22
+June,Fraser Coast,2022,31210,Jun-22
+June,Darling Downs,2022,3734,Jun-22
+June,Central Queensland,2022,10619,Jun-22
+June,Bundaberg,2022,382,Jun-22
+June,Brisbane,2022,8822,Jun-22
+July,Whitsundays,2022,788,Jul-22
+July,Tropical North Queensland,2022,19723,Jul-22
+July,Townsville,2022,2930,Jul-22
+July,Sunshine Coast,2022,28568,Jul-22
+July,Outback,2022,3429,Jul-22
+July,Mackay,2022,2168,Jul-22
+July,"Launceston, Tamar and the North",2022,3669,Jul-22
+July,Gold Coast,2022,1372,Jul-22
+July,Fraser Coast,2022,43409,Jul-22
+July,Darling Downs,2022,4178,Jul-22
+July,Central Queensland,2022,10283,Jul-22
+July,Bundaberg,2022,289,Jul-22
+July,Brisbane,2022,7169,Jul-22
+August,Whitsundays,2022,1069,Aug-22
+August,Tropical North Queensland,2022,22063,Aug-22
+August,Townsville,2022,2970,Aug-22
+August,Sunshine Coast,2022,41907,Aug-22
+August,Outback,2022,2842,Aug-22
+August,Mackay,2022,2801,Aug-22
+August,"Launceston, Tamar and the North",2022,4387,Aug-22
+August,Gold Coast,2022,1356,Aug-22
+August,Fraser Coast,2022,44256,Aug-22
+August,Darling Downs,2022,5454,Aug-22
+August,Central Queensland,2022,12926,Aug-22
+August,Bundaberg,2022,338,Aug-22
+August,Brisbane,2022,7489,Aug-22
+September,Whitsundays,2022,1548,Sep-22
+September,Tropical North Queensland,2022,22849,Sep-22
+September,Townsville,2022,3333,Sep-22
+September,Sunshine Coast,2022,46046,Sep-22
+September,Outback,2022,1287,Sep-22
+September,Mackay,2022,2874,Sep-22
+September,"Launceston, Tamar and the North",2022,4650,Sep-22
+September,Gold Coast,2022,1127,Sep-22
+September,Fraser Coast,2022,38910,Sep-22
+September,Darling Downs,2022,6293,Sep-22
+September,Central Queensland,2022,10439,Sep-22
+September,Bundaberg,2022,409,Sep-22
+September,Brisbane,2022,8080,Sep-22
+October,Whitsundays,2022,1055,Oct-22
+October,Tropical North Queensland,2022,13598,Oct-22
+October,Townsville,2022,1591,Oct-22
+October,Sunshine Coast,2022,40826,Oct-22
+October,Outback,2022,524,Oct-22
+October,Mackay,2022,2085,Oct-22
+October,"Launceston, Tamar and the North",2022,2477,Oct-22
+October,Gold Coast,2022,1281,Oct-22
+October,Fraser Coast,2022,37503,Oct-22
+October,Darling Downs,2022,4627,Oct-22
+October,Central Queensland,2022,11687,Oct-22
+October,Bundaberg,2022,163,Oct-22
+October,Brisbane,2022,7459,Oct-22
+November,Whitsundays,2022,836,Nov-22
+November,Tropical North Queensland,2022,9313,Nov-22
+November,Townsville,2022,961,Nov-22
+November,Sunshine Coast,2022,43388,Nov-22
+November,Outback,2022,215,Nov-22
+November,Mackay,2022,1847,Nov-22
+November,"Launceston, Tamar and the North",2022,3065,Nov-22
+November,Gold Coast,2022,1003,Nov-22
+November,Fraser Coast,2022,30255,Nov-22
+November,Darling Downs,2022,5399,Nov-22
+November,Central Queensland,2022,8085,Nov-22
+November,Bundaberg,2022,134,Nov-22
+November,Brisbane,2022,6534,Nov-22
+December,Whitsundays,2022,749,Dec-22
+December,Tropical North Queensland,2022,10380,Dec-22
+December,Townsville,2022,1021,Dec-22
+December,Sunshine Coast,2022,32420,Dec-22
+December,Queensland Country,2022,30,Dec-22
+December,Outback,2022,266,Dec-22
+December,Mackay,2022,1783,Dec-22
+December,"Launceston, Tamar and the North",2022,4250,Dec-22
+December,Gold Coast,2022,616,Dec-22
+December,Fraser Coast,2022,22031,Dec-22
+December,Darling Downs,2022,5682,Dec-22
+December,Central Queensland,2022,7319,Dec-22
+December,Bundaberg,2022,225,Dec-22
+December,Brisbane,2022,6282,Dec-22
+January,Whitsundays,2023,845,Jan-23
+January,Tropical North Queensland,2023,12865,Jan-23
+January,Townsville,2023,1074,Jan-23
+January,Sunshine Coast,2023,41797,Jan-23
+January,Queensland Country,2023,163,Jan-23
+January,Outback,2023,586,Jan-23
+January,Mackay,2023,1443,Jan-23
+January,"Launceston, Tamar and the North",2023,4956,Jan-23
+January,Gold Coast,2023,1320,Jan-23
+January,Fraser Coast,2023,29419,Jan-23
+January,Darling Downs,2023,6839,Jan-23
+January,Central Queensland,2023,10029,Jan-23
+January,Bundaberg,2023,194,Jan-23
+January,Brisbane,2023,7665,Jan-23
+February,Whitsundays,2023,818,Feb-23
+February,Tropical North Queensland,2023,9631,Feb-23
+February,Townsville,2023,867,Feb-23
+February,Sunshine Coast,2023,32423,Feb-23
+February,Queensland Country,2023,29,Feb-23
+February,Outback,2023,646,Feb-23
+February,Mackay,2023,1623,Feb-23
+February,"Launceston, Tamar and the North",2023,3834,Feb-23
+February,Gold Coast,2023,1303,Feb-23
+February,Fraser Coast,2023,26452,Feb-23
+February,Darling Downs,2023,5788,Feb-23
+February,Central Queensland,2023,7195,Feb-23
+February,Bundaberg,2023,155,Feb-23
+February,Brisbane,2023,6217,Feb-23
+March,Whitsundays,2023,1326,Mar-23
+March,Tropical North Queensland,2023,16544,Mar-23
+March,Townsville,2023,2065,Mar-23
+March,Sunshine Coast,2023,30140,Mar-23
+March,Queensland Country,2023,228,Mar-23
+March,Outback,2023,932,Mar-23
+March,Mackay,2023,2097,Mar-23
+March,"Launceston, Tamar and the North",2023,4398,Mar-23
+March,Gold Coast,2023,1323,Mar-23
+March,Fraser Coast,2023,39249,Mar-23
+March,Darling Downs,2023,6046,Mar-23
+March,Central Queensland,2023,8392,Mar-23
+March,Bundaberg,2023,203,Mar-23
+March,Brisbane,2023,7574,Mar-23
+April,Whitsundays,2023,683,Apr-23
+April,Tropical North Queensland,2023,14810,Apr-23
+April,Townsville,2023,2241,Apr-23
+April,Sunshine Coast,2023,27901,Apr-23
+April,Queensland Country,2023,301,Apr-23
+April,Outback,2023,2060,Apr-23
+April,Mackay,2023,2275,Apr-23
+April,"Launceston, Tamar and the North",2023,4096,Apr-23
+April,Gold Coast,2023,1135,Apr-23
+April,Fraser Coast,2023,30620,Apr-23
+April,Darling Downs,2023,5893,Apr-23
+April,Central Queensland,2023,9239,Apr-23
+April,Bundaberg,2023,435,Apr-23
+April,Brisbane,2023,7555,Apr-23
+May,Whitsundays,2023,918,May-23
+May,Tropical North Queensland,2023,14204,May-23
+May,Townsville,2023,2047,May-23
+May,Sunshine Coast,2023,24022,May-23
+May,Queensland Country,2023,279,May-23
+May,Outback,2023,2483,May-23
+May,Mackay,2023,2294,May-23
+May,"Launceston, Tamar and the North",2023,3527,May-23
+May,Gold Coast,2023,1367,May-23
+May,Fraser Coast,2023,27234,May-23
+May,Darling Downs,2023,4120,May-23
+May,Central Queensland,2023,9529,May-23
+May,Bundaberg,2023,276,May-23
+May,Brisbane,2023,6637,May-23
+June,Whitsundays,2023,1060,Jun-23
+June,Tropical North Queensland,2023,17438,Jun-23
+June,Townsville,2023,3303,Jun-23
+June,Sunshine Coast,2023,29828,Jun-23
+June,Queensland Country,2023,401,Jun-23
+June,Outback,2023,2594,Jun-23
+June,Mackay,2023,2510,Jun-23
+June,"Launceston, Tamar and the North",2023,4152,Jun-23
+June,Gold Coast,2023,1167,Jun-23
+June,Fraser Coast,2023,31464,Jun-23
+June,Darling Downs,2023,5583,Jun-23
+June,Central Queensland,2023,9485,Jun-23
+June,Bundaberg,2023,395,Jun-23
+June,Brisbane,2023,8278,Jun-23
+July,Whitsundays,2023,598,Jul-23
+July,Tropical North Queensland,2023,17544,Jul-23
+July,Townsville,2023,2649,Jul-23
+July,Sunshine Coast,2023,29664,Jul-23
+July,Queensland Country,2023,255,Jul-23
+July,Outback,2023,2304,Jul-23
+July,Mackay,2023,1735,Jul-23
+July,"Launceston, Tamar and the North",2023,4314,Jul-23
+July,Gold Coast,2023,1171,Jul-23
+July,Fraser Coast,2023,38125,Jul-23
+July,Darling Downs,2023,5328,Jul-23
+July,Central Queensland,2023,9868,Jul-23
+July,Bundaberg,2023,418,Jul-23
+July,Brisbane,2023,8363,Jul-23
+August,Whitsundays,2023,1070,Aug-23
+August,Tropical North Queensland,2023,19464,Aug-23
+August,Townsville,2023,2740,Aug-23
+August,Sunshine Coast,2023,41823,Aug-23
+August,Queensland Country,2023,512,Aug-23
+August,Outback,2023,3048,Aug-23
+August,Mackay,2023,2409,Aug-23
+August,"Launceston, Tamar and the North",2023,4703,Aug-23
+August,Gold Coast,2023,1425,Aug-23
+August,Fraser Coast,2023,44529,Aug-23
+August,Darling Downs,2023,6413,Aug-23
+August,Central Queensland,2023,10306,Aug-23
+August,Bundaberg,2023,266,Aug-23
+August,Brisbane,2023,7770,Aug-23
+September,Whitsundays,2023,776,Sep-23
+September,Tropical North Queensland,2023,17901,Sep-23
+September,Townsville,2023,2638,Sep-23
+September,Sunshine Coast,2023,44934,Sep-23
+September,Queensland Country,2023,322,Sep-23
+September,Outback,2023,1710,Sep-23
+September,Mackay,2023,2059,Sep-23
+September,"Launceston, Tamar and the North",2023,4403,Sep-23
+September,Gold Coast,2023,1076,Sep-23
+September,Fraser Coast,2023,28943,Sep-23
+September,Darling Downs,2023,5070,Sep-23
+September,Central Queensland,2023,9005,Sep-23
+September,Bundaberg,2023,349,Sep-23
+September,Brisbane,2023,7178,Sep-23
+October,Whitsundays,2023,609,Oct-23
+October,Tropical North Queensland,2023,11995,Oct-23
+October,Townsville,2023,1216,Oct-23
+October,Sunshine Coast,2023,41477,Oct-23
+October,Queensland Country,2023,82,Oct-23
+October,Outback,2023,606,Oct-23
+October,Mackay,2023,1439,Oct-23
+October,"Launceston, Tamar and the North",2023,2622,Oct-23
+October,Gold Coast,2023,994,Oct-23
+October,Fraser Coast,2023,29684,Oct-23
+October,Darling Downs,2023,4058,Oct-23
+October,Central Queensland,2023,6547,Oct-23
+October,Bundaberg,2023,179,Oct-23
+October,Brisbane,2023,5742,Oct-23
+November,Whitsundays,2023,508,Nov-23
+November,Tropical North Queensland,2023,7594,Nov-23
+November,Townsville,2023,849,Nov-23
+November,Sunshine Coast,2023,34474,Nov-23
+November,Queensland Country,2023,94,Nov-23
+November,Outback,2023,137,Nov-23
+November,Mackay,2023,1499,Nov-23
+November,"Launceston, Tamar and the North",2023,1684,Nov-23
+November,Gold Coast,2023,835,Nov-23
+November,Fraser Coast,2023,22578,Nov-23
+November,Darling Downs,2023,3329,Nov-23
+November,Central Queensland,2023,4131,Nov-23
+November,Bundaberg,2023,90,Nov-23
+November,Brisbane,2023,4774,Nov-23
+December,Whitsundays,2023,404,Dec-23
+December,Tropical North Queensland,2023,3895,Dec-23
+December,Townsville,2023,619,Dec-23
+December,Sunshine Coast,2023,24510,Dec-23
+December,Queensland Country,2023,89,Dec-23
+December,Outback,2023,124,Dec-23
+December,Mackay,2023,1211,Dec-23
+December,"Launceston, Tamar and the North",2023,2510,Dec-23
+December,Gold Coast,2023,661,Dec-23
+December,Fraser Coast,2023,14552,Dec-23
+December,Darling Downs,2023,3362,Dec-23
+December,Central Queensland,2023,4387,Dec-23
+December,Bundaberg,2023,114,Dec-23
+December,Brisbane,2023,4480,Dec-23
+January,Whitsundays,2024,275,Jan-24
+January,Tropical North Queensland,2024,3980,Jan-24
+January,Townsville,2024,420,Jan-24
+January,Sunshine Coast,2024,24413,Jan-24
+January,Queensland Country,2024,144,Jan-24
+January,Outback,2024,93,Jan-24
+January,Mackay,2024,722,Jan-24
+January,"Launceston, Tamar and the North",2024,2599,Jan-24
+January,Gold Coast,2024,888,Jan-24
+January,Fraser Coast,2024,11901,Jan-24
+January,Darling Downs,2024,3980,Jan-24
+January,Central Queensland,2024,3860,Jan-24
+January,Bundaberg,2024,166,Jan-24
+January,Brisbane,2024,4442,Jan-24
+February,Whitsundays,2024,169,Feb-24
+February,Tropical North Queensland,2024,2790,Feb-24
+February,Townsville,2024,517,Feb-24
+February,Sunshine Coast,2024,22788,Feb-24
+February,Queensland Country,2024,107,Feb-24
+February,Outback,2024,106,Feb-24
+February,Mackay,2024,702,Feb-24
+February,"Launceston, Tamar and the North",2024,2201,Feb-24
+February,Gold Coast,2024,929,Feb-24
+February,Fraser Coast,2024,10475,Feb-24
+February,Darling Downs,2024,2718,Feb-24
+February,Central Queensland,2024,2895,Feb-24
+February,Bundaberg,2024,74,Feb-24
+February,Brisbane,2024,3241,Feb-24
+March,Whitsundays,2024,212,Mar-24
+March,Tropical North Queensland,2024,2110,Mar-24
+March,Townsville,2024,666,Mar-24
+March,Sunshine Coast,2024,13681,Mar-24
+March,Queensland Country,2024,117,Mar-24
+March,Outback,2024,239,Mar-24
+March,Mackay,2024,1321,Mar-24
+March,"Launceston, Tamar and the North",2024,2864,Mar-24
+March,Gold Coast,2024,562,Mar-24
+March,Fraser Coast,2024,7341,Mar-24
+March,Darling Downs,2024,2495,Mar-24
+March,Central Queensland,2024,2699,Mar-24
+March,Bundaberg,2024,183,Mar-24
+March,Brisbane,2024,3084,Mar-24
